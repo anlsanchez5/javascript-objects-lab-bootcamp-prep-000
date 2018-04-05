@@ -12,3 +12,4 @@ function deleteFromObjectByKey(object, key) {
   var obj = delete object[key]
   return obj
 }
+function deleteFromobjectByKey
