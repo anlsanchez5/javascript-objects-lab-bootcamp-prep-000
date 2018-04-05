@@ -1,5 +1,5 @@
 var recipes = {flour:'1 cup'}
 function updateObjectWithKeyAndValue(obj, key, value) {
-  obj[key] = value
-  return obj
+ var object =  obj[key] = value
+  return object
 }
